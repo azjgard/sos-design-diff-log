@@ -6,7 +6,7 @@ aren't as technically viable at others. For this project, on these occasions,
 I tried to reduce complexity via slight deviations from the designs provided;
 I only did so in the cases where I believed the deviation looked just as
 good as the original did. Although I'm sure that I missed a couple, this
-is a relatively comprehensive list. Please feel free to reach out with
+is a relatively comprehensive list of instances where there is a difference between the provided design and the website's implementation. Please feel free to reach out with
 questions or requests; I'm more than happy to modify or change any
 aspect discussed below.
 
